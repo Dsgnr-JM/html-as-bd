@@ -1,4 +1,4 @@
-#Proyecto: Base de Datos HTML (Prueba de Concepto)
+# Proyecto: Base de Datos HTML (Prueba de Concepto)
 Descripción:
 
 Este proyecto es un experimento para utilizar archivos HTML como una forma de almacenar y gestionar datos. Es importante destacar que este enfoque no es recomendado para aplicaciones reales debido a sus limitaciones en rendimiento, escalabilidad, seguridad y mantenimiento.
